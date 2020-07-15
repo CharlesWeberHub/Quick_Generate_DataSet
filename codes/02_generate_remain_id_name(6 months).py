@@ -3,7 +3,7 @@ import os
 import copy
 
 monthly_data_path = r'C:\Users\charles\PycharmProjects\Quick_Generate_DataSet\data\source_calendar_data\Calendar_monthly_csv'
-game_features_path = r'C:\Users\charles\PycharmProjects\Quick_Generate_DataSet\data\sourse_game_features_dataset\games-features(age).csv'
+game_features_path = r'C:\Users\charles\PycharmProjects\Quick_Generate_DataSet\data\sourse_game_features_dataset\games-features(age_month6).csv'
 
 monthly_data_file_list = os.listdir(monthly_data_path)
 monthly_data_file_list.sort()

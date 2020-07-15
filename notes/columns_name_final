@@ -80,7 +80,7 @@
 'Developer',
 'Reputation', # https://www.metacritic.com/browse/games/company/score?num_items=100
 'isMajorCompany',#  I included major company using the time period from 2010 to 2018. The 2019 rankings has not been published on the website (usually published in February, we can wait for it if we want to use 2019 rankings).
-'age',Include " #release date" and the "age" in terms of number of weeks. E.g. if release date=2018Jan1, and the period is 2018Feb1, then "age" is equal to 4.
+'age',Include " #release date" and the "age" in terms of number of months. E.g. if release date=2018Jan1, and the period is 2018May1, then "age" is equal to 4.
 'Max discount',
 'price0', # unchanged_price
 'Sales',

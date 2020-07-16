@@ -1,2 +1,2 @@
-*.csv
-*.xls
+/sourse_game_features_dataset/
+/source_calendar_data/

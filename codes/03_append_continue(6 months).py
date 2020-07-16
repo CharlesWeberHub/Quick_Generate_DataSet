@@ -10,7 +10,7 @@ game_features_path = r'C:\Users\charles\PycharmProjects\Quick_Generate_DataSet\d
 # 2019-06-01 to 2019-11-30
 # print(monthly_file_list[41:47])
 
-monthly_data_path = r'C:\Users\charles\PycharmProjects\Quick_Generate_DataSet\data\source_calendar_data\Calendar_monthly_csv'
+monthly_data_path = r'C:\Users\charles\PycharmProjects\Quick_Generate_DataSet\data\source_calendar_data'
 monthly_file_list = os.listdir(monthly_data_path)
 monthly_file_list.sort()
 monthly_file_list = monthly_file_list[41:47]

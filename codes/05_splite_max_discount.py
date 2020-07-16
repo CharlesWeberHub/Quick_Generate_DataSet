@@ -27,4 +27,4 @@ month_6_df['max_discounted_percent(%)'] = pd.to_numeric(month_6_df['max_discount
 month_6_df['discounted(boolean)'] = month_6_df['max_discounted_percent(%)'] > 0
 
 month_6_df.to_excel(
-    r'C:\Users\charles\PycharmProjects\Quick_Generate_DataSet\data\out_put_final\new_form(6_quarters_split_discount).xls')
+    r'C:\Users\charles\PycharmProjects\Quick_Generate_DataSet\data\out_put_final\final_new_form(6_months_split_discount).xls')
